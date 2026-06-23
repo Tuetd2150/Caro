@@ -10,13 +10,9 @@ public class Value {
     public static final String INFO_MESSAGE =
             "Trường: Đại Học Khoa Học Huế\n"
                     + "Môn: Nhập Môn Trí Tuệ Nhân Tạo\n"
-                    + "Giảng viên: Đoàn Thị Hồng Phước\n"
                     + "Đề tài: Game cờ caro sử dụng thuật toán cắt tỉa alpha beta\n"
                     + "Thành viên thực hiện:\n"
-                    + " Hoàng Quốc Khánh\n"
-                    + " Đoàn Phú Thuận\n"
-                    + " Hồ Xuân Lâm\n"
-                    + " Nguyễn Minh Hiếu\n"
+                    + " Trần Đình Tuệ\n"
                     + "Nội dung:\n"
                     + " Game cờ caro sử dụng thuật toán cắt tỉa alpha beta, bài tập nhóm môn nhập môn trí tuệ nhân tạo!";
     public static final String INTRODUCE_MESSAGE =
