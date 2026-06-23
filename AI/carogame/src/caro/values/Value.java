@@ -8,8 +8,7 @@ import java.awt.Color;
 public class Value {
 
     public static final String INFO_MESSAGE =
-            "Trường: Đại Học Khoa Học Huế\n"
-                    + "Môn: Nhập Môn Trí Tuệ Nhân Tạo\n"
+            "Trường: Đại Học Bách Khoa Hà Nội\n"
                     + "Đề tài: Game cờ caro sử dụng thuật toán cắt tỉa alpha beta\n"
                     + "Thành viên thực hiện:\n"
                     + " Trần Đình Tuệ\n"
