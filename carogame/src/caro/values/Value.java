@@ -8,17 +8,11 @@ import java.awt.Color;
 public class Value {
 
     public static final String INFO_MESSAGE =
-            "Trường: Đại Học Khoa Học Huế\n"
-                    + "Môn: Nhập Môn Trí Tuệ Nhân Tạo\n"
-                    + "Giảng viên: Đặng Tuấn Linh\n"
+            "Trường: Đại Học Bách Khoa Hà Nội\n"
                     + "Đề tài: Game cờ caro sử dụng thuật toán 3 mô hình thuật toán (AI Greedy, AI Minimax, AI Minimax + Alpha-Beta)\n"
-                    + "Thành viên thực hiện:\n"
-                    + " Nguyễn Trung Kiên\n"
-                    + " Nguyễn Quang Vinh\n"
-                    + " Nguyễn Đức Toàn\n"
-                    + " Trần Đình Tuệ\n"
+                    + "Thành viên thực hiện: TueTDK68E6\n"
                     + "Nội dung:\n"
-                    + " Game cờ caro sử dụng thuật toán 3 mô hình thuật toán (AI Greedy, AI Minimax, AI Minimax + Alpha-Beta), bài tập nhóm môn nhập môn trí tuệ nhân tạo!";
+                    + " Game cờ caro sử dụng thuật toán 3 mô hình thuật toán (AI Greedy, AI Minimax, AI Minimax + Alpha-Beta), Nhập môn trí tuệ nhân tạo!";
     public static final String INTRODUCE_MESSAGE =
             "Nguồn Gốc và Luật Chơi Cờ Caro"
                     + "\r\n"
