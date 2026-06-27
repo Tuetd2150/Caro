@@ -2,8 +2,7 @@ package caro.values;
 import java.awt.Color;
 
 /**
- * @author rianta9
- * Datecreate: 24 thg 4, 2020 17:30:05
+ * @author TueTD
  */
 public class Value {
 
