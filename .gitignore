@@ -1,0 +1,16 @@
+# Compiled output
+out/
+**/out/
+
+# Class files accidentally compiled into src
+*.class
+
+# IDE workspace (keep carogame.iml tracked)
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime user settings
+AI/carogame/file/setting.txt
